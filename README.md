@@ -15,10 +15,10 @@ Bem vindo(a), ao meu perfil! Eu sou um estudante de Engenharia de Software, dese
 ### 1.3 Redes Sociais e Contato
 
 <div>
-  <a href="https://github.com/LucasLevyOB" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-levy-oliveira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/lucas-l-oliveira/" target="_blank">
+  <a href="https://github.com/LucasLevyOB" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
   <a href="https://www.instagram.com/lucaslevy154/" target="_blank">
