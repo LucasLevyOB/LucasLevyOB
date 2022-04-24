@@ -51,6 +51,7 @@ A OnliTools é um site de ferramentas que visa ajudar pessoas em suas tarefas di
 <div>
   <b>Clones</b>
   <div>
+    <a href="https://github.com/LucasLevyOB/front_end--clone--login_discord" target="_blank"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLevyOB&repo=front_end--clone--login_discord&theme=react&show_icons=false" alt="front_end--clone--login_discord"></a>
     <a href="https://github.com/LucasLevyOB/front_end--clone--interface_netflix" target="_blank"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLevyOB&repo=front_end--clone--interface_netflix&theme=react&show_icons=false" alt="front_end--clone--interface_netflix"></a>
     <a href="https://github.com/LucasLevyOB/front_end--clone--pagina_inicial_instagram" target="_blank"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLevyOB&repo=front_end--clone--pagina_inicial_instagram&theme=react&show_icons=false" alt="front_end--clone--pagina_inicial_instagram"></a>
   </div>
