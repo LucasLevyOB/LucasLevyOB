@@ -37,7 +37,7 @@ A OnliTools é um site de ferramentas que visa ajudar pessoas em suas tarefas di
     <a href="https://www.onlitools.com/" target="_blank"><img src="imgs/screen_shot_onlitools.png" alt="Screenshot do header e menu da home do site onlitools, nela vemos o menu com opções e a logo, uma mensagem na div logo abaixo e uma imagem." style="width: 100%; max-width: 600px" /></a>
   </div>
   
- #### 1.4.2 Projeto para Consumir uma API com Reac JS
+ #### 1.4.2 Projeto para Consumir uma API com React JS
  Projeto para consumir uma API de produtos, utilizando React JS e outras tecnologias.
  
  <a href="https://github.com/LucasLevyOB/front_end--project--consumindo_api_com_react" target="_blank"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasLevyOB&repo=front_end--project--consumindo_api_com_react&theme=react&show_icons=false" alt="front_end--project--consumindo_api_com_react"></a>
