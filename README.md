@@ -132,8 +132,8 @@ A **[DepuDados](https://depudados.com.br)** é uma plataforma analítica voltada
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLevyOB&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Lucas Levy" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLevyOB&layout=compact&theme=react" alt="Linguagens mais utilizadas por Lucas Levy" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=LucasLevyOB&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Lucas Levy" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LucasLevyOB&layout=compact&theme=react" alt="Linguagens mais utilizadas por Lucas Levy" />
 </div>
 
 ---
